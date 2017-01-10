@@ -34,8 +34,7 @@ export default {
       name: "keyword searcher",
       createdOn: "2017-01-09",
       createdBy: "John Smith",
-    },
-    {
+    }, {
       id: 2,
       name: "google mapper",
       createdOn: "2017-01-09",
