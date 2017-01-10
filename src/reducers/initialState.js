@@ -37,7 +37,7 @@ export default {
     },
     {
       id: 2,
-      name: "google mapper,
+      name: "google mapper",
       createdOn: "2017-01-09",
       createdBy: "John Doe",
     },
